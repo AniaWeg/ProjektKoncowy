@@ -1,0 +1,710 @@
+{
+  "id": "c757bf93-c84b-42ae-8a5e-9f63acf89552",
+  "version": "2.0",
+  "name": "Projekt końcowy",
+  "url": "https://www.komputronik.pl",
+  "tests": [{
+    "id": "c55c6dfd-9327-4a57-a35b-d85bda14f0e8",
+    "name": "Zmiana liczby produktów w koszyku za pomocą \"+\" i \"-\"",
+    "commands": [{
+      "id": "ad32d46c-e707-4398-b7ff-05cff26727d3",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5e49036f-83ea-49fe-984c-36c2b1250fc8",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1347x981",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5ce3405c-a4c1-42fe-beca-108c18711a7a",
+      "comment": "",
+      "command": "//mouseOver",
+      "target": "css=.rotator__curr > .rotator__wrapper",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "41d26d17-67cd-4d00-9b3e-60af707072ae",
+      "comment": "",
+      "command": "//mouseOut",
+      "target": "css=.rotator__curr > .rotator__wrapper",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "32ba1019-e78d-4d6a-a660-d04b2918161d",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,146)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "63538c0e-a350-429b-938d-88d5fe9e5aca",
+      "comment": "",
+      "command": "//mouseOver",
+      "target": "css=.basis-\\[18rem\\]:nth-child(6) .font-medium",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "719d6418-5bff-42ea-b715-1ec97107a1cb",
+      "comment": "",
+      "command": "//mouseOut",
+      "target": "css=.basis-\\[18rem\\]:nth-child(6) .font-medium",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "38126151-f2ae-43b1-9a1b-11968b619b2a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.basis-\\[18rem\\]:nth-child(6) .text-xs",
+      "targets": [
+        ["css=.basis-\\[18rem\\]:nth-child(6) .text-xs", "css:finder"],
+        ["xpath=//div[@id='width-parent']/div[3]/ktr-occasions/div/div[2]/div[2]/ktr-promotion-recommend/div[6]/div/a/div[2]/p", "xpath:idRelative"],
+        ["xpath=//div[6]/div/a/div[2]/p", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ca9cebb4-037d-4334-b74d-19fe230a55d6",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "047bb613-1ad0-44c2-b333-cc99ee227c48",
+      "comment": "",
+      "command": "click",
+      "target": "css=.add-to-cart:nth-child(3) > .my-6",
+      "targets": [
+        ["css=.add-to-cart:nth-child(3) > .my-6", "css:finder"],
+        ["xpath=//div[@id='sticky-container']/div[2]/div/ktr-product-buy-button/button", "xpath:idRelative"],
+        ["xpath=//div[2]/div/ktr-product-buy-button/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "01d020c4-2897-4e35-b647-c50678feffc7",
+      "comment": "",
+      "command": "//mouseOver",
+      "target": "css=.i-close-circle",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "408a0b22-ce7d-40cc-8194-4962018912f3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.i-close-circle",
+      "targets": [
+        ["css=.i-close-circle", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "92aee4a5-569a-485a-9dfa-e4126f30394d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.i-close-circle",
+      "targets": [
+        ["css=.i-close-circle", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8f9c97e3-639b-4078-b166-b6d4b80f84e0",
+      "comment": "",
+      "command": "click",
+      "target": "css=button .pl-3",
+      "targets": [
+        ["css=button .pl-3", "css:finder"],
+        ["xpath=//div[@id='header']/div/div/div/div/div[3]/div[4]/div/div/button/a/div", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/button/a/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c66cd022-526a-4fac-8887-7ae03831877e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cart-table__elem-qty:nth-child(5) .flex-qty-control__action-down > .icon",
+      "targets": [
+        ["css=.cart-table__elem-qty:nth-child(5) .flex-qty-control__action-down > .icon", "css:finder"],
+        ["xpath=//div[@id='content']/div/div/ktr-order-cart/div/div[4]/form/div/ul/li[2]/div[5]/div/button[2]/i", "xpath:idRelative"],
+        ["xpath=//button[2]/i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ff83c2b4-ec4f-47f4-99d1-46246ada7be1",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cart-table__elem-qty:nth-child(5) .flex-qty-control__action-up > .icon",
+      "targets": [
+        ["css=.cart-table__elem-qty:nth-child(5) .flex-qty-control__action-up > .icon", "css:finder"],
+        ["xpath=//div[@id='content']/div/div/ktr-order-cart/div/div[4]/form/div/ul/li[2]/div[5]/div/button/i", "xpath:idRelative"],
+        ["xpath=//div/button/i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "071e3005-313a-465f-b2db-5c3308a5fe55",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "413d2043-7ade-4728-96f5-ad82386a4fa1",
+    "name": "Dodawanie produktu do koszyka i usuwanie go",
+    "commands": [{
+      "id": "df1a03c7-16ac-44b6-8612-933d95bffe09",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "00c55de4-e623-4838-b650-74c803254e2c",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1347x981",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "acbbf73f-1104-4c14-8a66-2191ef0b30e0",
+      "comment": "",
+      "command": "//mouseOver",
+      "target": "css=.rotator__wrapper > .ls-is-cached",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "566f4fdd-83a3-4266-92c9-841ba7b01f9b",
+      "comment": "",
+      "command": "//mouseOut",
+      "target": "css=.rotator__curr .ls-is-cached",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "dc5640bc-af34-4ee9-8207-f3b7df7a9b54",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,8)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4ee8bb2e-a258-473f-99b7-679e27de8784",
+      "comment": "",
+      "command": "click",
+      "target": "css=.shadow-card > a > .flex",
+      "targets": [
+        ["css=.shadow-card > a > .flex", "css:finder"],
+        ["xpath=//div[@id='width-parent']/div[3]/ktr-occasions/div/div[2]/div[2]/ktr-promotion-recommend/div[6]/div/a/span", "xpath:idRelative"],
+        ["xpath=//div[6]/div/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "83e6e39f-18c5-474c-8a0f-6cbcabf79af0",
+      "comment": "",
+      "command": "click",
+      "target": "css=.add-to-cart:nth-child(3) > .my-6",
+      "targets": [
+        ["css=.add-to-cart:nth-child(3) > .my-6", "css:finder"],
+        ["xpath=//div[@id='sticky-container']/div[2]/div/ktr-product-buy-button/button", "xpath:idRelative"],
+        ["xpath=//div[2]/div/ktr-product-buy-button/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "97397da1-6584-44a8-ba81-16bb1611c435",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7ebb11ef-d3ff-4c49-84ea-71a4a69a2be4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.i-close-circle",
+      "targets": [
+        ["css=.i-close-circle", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b5e664ab-0ee6-4eeb-ae00-63bc8139c839",
+      "comment": "",
+      "command": "click",
+      "target": "css=.i-close-circle",
+      "targets": [
+        ["css=.i-close-circle", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d445cc59-fd38-48e2-b44f-bbbbc2fafe32",
+      "comment": "",
+      "command": "click",
+      "target": "css=.group:nth-child(4) button span",
+      "targets": [
+        ["css=.group:nth-child(4) button span", "css:finder"],
+        ["xpath=//div[@id='header']/div/div/div/div/div[3]/div[4]/div/div/button/a/div/div[2]/span", "xpath:idRelative"],
+        ["xpath=//a/div/div[2]/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Koszyk')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7644c80c-343a-4729-89ab-de434e81d4aa",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cart-table__elem-remove-button > strong",
+      "targets": [
+        ["css=.cart-table__elem-remove-button > strong", "css:finder"],
+        ["xpath=//div[@id='content']/div/div/ktr-order-cart/div/div[4]/form/div/ul/li[2]/div[7]/button/strong", "xpath:idRelative"],
+        ["xpath=//button/strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Usuń')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "797ccb8e-dc02-4634-b651-f3eed8b42134",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "3a3dcba3-962c-4bd5-914c-9b3ac39e675a",
+    "name": "Zmiana liczby produktów w koszyku za pomocą pola \"liczba\"",
+    "commands": [{
+      "id": "b75aaa62-c1d3-4ffa-8f1c-0af010c97efc",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "303a5486-c7a1-4939-9d3e-ebbc6966df04",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1347x981",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4cb7f476-eec2-4fc7-a8e3-8575aafc24eb",
+      "comment": "",
+      "command": "//mouseOver",
+      "target": "css=.rotator__curr .ls-is-cached",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9dfe6eae-c167-449c-a13c-55358d0c255d",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,14)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e4a3ac0b-ab3c-4ffd-a4b6-5a7c35471a84",
+      "comment": "",
+      "command": "//mouseOut",
+      "target": "css=.rotator__curr .ls-is-cached",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7b0ca090-6858-4654-9049-c60c9f4e8a45",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,426)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c44115a9-4314-44dc-a0ff-fdeb0dbe205c",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,426)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3c8d2f42-be0c-41f5-bfa3-ebce3a9e05ae",
+      "comment": "",
+      "command": "click",
+      "target": "css=.basis-\\[18rem\\]:nth-child(6) .self-center",
+      "targets": [
+        ["css=.basis-\\[18rem\\]:nth-child(6) .self-center", "css:finder"],
+        ["xpath=(//img[@alt='produkt'])[6]", "xpath:img"],
+        ["xpath=//div[@id='width-parent']/div[3]/ktr-occasions/div/div[2]/div[2]/ktr-promotion-recommend/div[6]/div/a/span/img", "xpath:idRelative"],
+        ["xpath=//div[6]/div/a/span/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c05231cb-e63e-4c4c-b3b9-b4203afecdc4",
+      "comment": "",
+      "command": "//mouseOver",
+      "target": "css=.add-to-cart:nth-child(3) > .my-6",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2e9ade3f-7e5e-46bb-860b-8fdc6c7286ae",
+      "comment": "",
+      "command": "click",
+      "target": "css=.add-to-cart:nth-child(3) > .my-6",
+      "targets": [
+        ["css=.add-to-cart:nth-child(3) > .my-6", "css:finder"],
+        ["xpath=//div[@id='sticky-container']/div[2]/div/ktr-product-buy-button/button", "xpath:idRelative"],
+        ["xpath=//div[2]/div/ktr-product-buy-button/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "380ccec1-7c6d-4103-b6c7-af43979880c1",
+      "comment": "",
+      "command": "//mouseOut",
+      "target": "css=.add-to-cart:nth-child(3) > .my-6",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d2f6c1a2-c36a-4225-9b8a-a91b551fe57a",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f55981c1-4736-4940-965b-a6d558d06634",
+      "comment": "",
+      "command": "click",
+      "target": "css=.i-close-circle",
+      "targets": [
+        ["css=.i-close-circle", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f1c263da-ccc4-4344-b2ef-374d30fe3bd3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.i-close-circle",
+      "targets": [
+        ["css=.i-close-circle", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "13ab85d3-34c8-46a6-8d5e-b6eac5b8c572",
+      "comment": "",
+      "command": "click",
+      "target": "css=.group:nth-child(4) button span",
+      "targets": [
+        ["css=.group:nth-child(4) button span", "css:finder"],
+        ["xpath=//div[@id='header']/div/div/div/div/div[3]/div[4]/div/div/button/a/div/div[2]/span", "xpath:idRelative"],
+        ["xpath=//a/div/div[2]/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Koszyk')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "277acab7-5c9d-43da-88b8-5de3f2586482",
+      "comment": "",
+      "command": "click",
+      "target": "name=quantity0",
+      "targets": [
+        ["name=quantity0", "name"],
+        ["css=.cart-table__elem-qty:nth-child(5) .flex-qty-control__input", "css:finder"],
+        ["xpath=//input[@name='quantity0']", "xpath:attributes"],
+        ["xpath=//div[@id='content']/div/div/ktr-order-cart/div/div[4]/form/div/ul/li[2]/div[5]/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5d645df9-6a5d-4779-bb37-a3ee893609ca",
+      "comment": "",
+      "command": "type",
+      "target": "name=quantity0",
+      "targets": [
+        ["name=quantity0", "name"],
+        ["css=.ng-dirty:nth-child(1)", "css:finder"],
+        ["xpath=//input[@name='quantity0']", "xpath:attributes"],
+        ["xpath=//div[@id='content']/div/div/ktr-order-cart/div/div[4]/form/div/ul/li[2]/div[5]/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "2"
+    }, {
+      "id": "4f396609-0536-461f-b6b7-9206b94cc902",
+      "comment": "",
+      "command": "//mouseDown",
+      "target": "css=.cart-table__elem:nth-child(2)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "36f89356-77d9-4351-8d3b-15d1769ab13d",
+      "comment": "",
+      "command": "//mouseUp",
+      "target": "css=.curtain",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a7385276-c746-4c2a-9fab-ba1eb091e2bd",
+      "comment": "",
+      "command": "click",
+      "target": "css=ktr-order-cart",
+      "targets": [
+        ["css=ktr-order-cart", "css:finder"],
+        ["xpath=//div[@id='content']/div/div/ktr-order-cart", "xpath:idRelative"],
+        ["xpath=//ktr-order-cart", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "18a67be7-d236-4241-b891-bf6792d4aaad",
+      "comment": "",
+      "command": "click",
+      "target": "name=quantity0",
+      "targets": [
+        ["name=quantity0", "name"],
+        ["css=.ng-touched", "css:finder"],
+        ["xpath=//input[@name='quantity0']", "xpath:attributes"],
+        ["xpath=//div[@id='content']/div/div/ktr-order-cart/div/div[4]/form/div/ul/li[2]/div[5]/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3d5bbc8b-2b46-4a30-8e29-2d516227caa8",
+      "comment": "",
+      "command": "type",
+      "target": "name=quantity0",
+      "targets": [
+        ["name=quantity0", "name"],
+        ["css=.ng-touched", "css:finder"],
+        ["xpath=//input[@name='quantity0']", "xpath:attributes"],
+        ["xpath=//div[@id='content']/div/div/ktr-order-cart/div/div[4]/form/div/ul/li[2]/div[5]/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "1"
+    }, {
+      "id": "462612fd-f17e-4a2b-9b1b-d6a7a26d439b",
+      "comment": "",
+      "command": "//mouseOver",
+      "target": "css=.cart-table__elem-qty:nth-child(5) .flex-qty-control__action-down",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "11d3f6fb-614d-47e5-98c6-3c57556cfc58",
+      "comment": "",
+      "command": "//mouseDown",
+      "target": "css=.cart-table__elem:nth-child(2)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "03f9d702-d4ac-4392-99a1-2da43ff8138e",
+      "comment": "",
+      "command": "//mouseUp",
+      "target": "css=.curtain",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "346e479c-7868-4fba-bec4-3691a536a2be",
+      "comment": "",
+      "command": "click",
+      "target": "css=ktr-order-cart",
+      "targets": [
+        ["css=ktr-order-cart", "css:finder"],
+        ["xpath=//div[@id='content']/div/div/ktr-order-cart", "xpath:idRelative"],
+        ["xpath=//ktr-order-cart", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7dde30bc-6e51-4020-8ec7-6dc8f9449f7d",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "699065ca-0c28-449c-a7e2-e3f0e5b863a0",
+    "name": "Ekran \"Produkt dodany do koszyka\" - 3 opcje interakcji",
+    "commands": [{
+      "id": "74cb3eff-8614-4cff-b59e-5d6f9c4e9c34",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "19927bd1-e180-407e-981c-72537097ea9c",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1347x981",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8ec7947e-91be-47ae-b003-c23f290e487b",
+      "comment": "",
+      "command": "//mouseOver",
+      "target": "css=.rotator__wrapper > .ls-is-cached",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89c056e5-ece7-4da6-a001-6c3f80bb13c9",
+      "comment": "",
+      "command": "//mouseOut",
+      "target": "css=.rotator__wrapper > .ls-is-cached",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cdf6d8fc-3c1f-4d13-80a0-46a8dfaa422e",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,434)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6501dd39-6647-46a7-b33c-bf098c9cffd6",
+      "comment": "",
+      "command": "click",
+      "target": "css=.shadow-card > a > .flex",
+      "targets": [
+        ["css=.shadow-card > a > .flex", "css:finder"],
+        ["xpath=//div[@id='width-parent']/div[3]/ktr-occasions/div/div[2]/div[2]/ktr-promotion-recommend/div[6]/div/a/span", "xpath:idRelative"],
+        ["xpath=//div[6]/div/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "77bd1def-f6f0-4f32-a5dc-00e38c71e64d",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,434)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "00d2dcf3-2226-4efd-99cb-da19e0d30391",
+      "comment": "",
+      "command": "//mouseOver",
+      "target": "css=.add-to-cart:nth-child(3) > .my-6",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "89367b92-2b26-44c4-b543-2f5591a65f1c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.add-to-cart:nth-child(3) > .my-6",
+      "targets": [
+        ["css=.add-to-cart:nth-child(3) > .my-6", "css:finder"],
+        ["xpath=//div[@id='sticky-container']/div[2]/div/ktr-product-buy-button/button", "xpath:idRelative"],
+        ["xpath=//div[2]/div/ktr-product-buy-button/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cc2ade60-4ceb-4e49-b651-92b8c56821bc",
+      "comment": "",
+      "command": "//mouseOut",
+      "target": "css=.add-to-cart:nth-child(3) > .my-6",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "535860b9-b4d0-4658-96cf-b383a24047de",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "56cab76d-6729-476a-ad36-604d12ebc570",
+      "comment": "",
+      "command": "click",
+      "target": "css=.i-close-circle",
+      "targets": [
+        ["css=.i-close-circle", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "11539f4a-ddd3-410e-91b5-ebc4db4b317b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.i-close-circle",
+      "targets": [
+        ["css=.i-close-circle", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b862cab4-e22e-429b-b496-83020c0434a7",
+      "comment": "",
+      "command": "click",
+      "target": "css=.add-to-cart:nth-child(3) > .my-6",
+      "targets": [
+        ["css=.add-to-cart:nth-child(3) > .my-6", "css:finder"],
+        ["xpath=//div[@id='sticky-container']/div[2]/div/ktr-product-buy-button/button", "xpath:idRelative"],
+        ["xpath=//div[2]/div/ktr-product-buy-button/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e6142380-0013-442f-bba6-8bbd41002532",
+      "comment": "",
+      "command": "click",
+      "target": "css=.i-close-circle",
+      "targets": [
+        ["css=.i-close-circle", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "70fdeae6-83e5-4cb9-bb86-ef05c31aa173",
+      "comment": "",
+      "command": "click",
+      "target": "css=.border-blue-smalt",
+      "targets": [
+        ["css=.border-blue-smalt", "css:finder"],
+        ["xpath=//div[3]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Wróć do zakupów')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e55ac1a8-b2d9-45a3-b67e-5083a4dba4c3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.add-to-cart:nth-child(3) > .my-6",
+      "targets": [
+        ["css=.add-to-cart:nth-child(3) > .my-6", "css:finder"],
+        ["xpath=//div[@id='sticky-container']/div[2]/div/ktr-product-buy-button/button", "xpath:idRelative"],
+        ["xpath=//div[2]/div/ktr-product-buy-button/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9aac7f53-0d32-4fc8-bf87-9ee936a1efca",
+      "comment": "",
+      "command": "click",
+      "target": "css=.i-close-circle",
+      "targets": [
+        ["css=.i-close-circle", "css:finder"],
+        ["xpath=//i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ef5accdb-f99a-4eab-a57e-eed50002b1d3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sm\\3Ajustify-self-end",
+      "targets": [
+        ["css=.sm\\3Ajustify-self-end", "css:finder"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,'Przejdź do koszyka')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b2988abb-12a7-407d-8774-f5b2589f7b05",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "c2a50d8a-f9b7-4147-9352-609369af8627",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://www.komputronik.pl/"],
+  "plugins": []
+}
