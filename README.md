@@ -42,7 +42,7 @@ Brak wsparcia kadry zarządzającej | Szkolenia menedżerskie dla kadry zarządz
 Bariery językowe | Kursy językowe lub wsparcie lektora
 Niski standard pracy w metodyce Scrum | Szkolenia dla zespołu ze sposobu wytwarzania oprogramowania w sposób zwinny, w metodyce Agile (framework - Scrum)
 
-## Przypadki testowe w narzędziu TestRail - przykady
+## Przypadki testowe w narzędziu TestRail - przykłady
 ![Zrzut ekranu 2023-02-27 o 23 12 15](https://user-images.githubusercontent.com/116351258/227199057-8059d1bb-c9ac-490a-9565-8dec55944d2e.png)
 ![Zrzut ekranu 2023-02-27 o 23 14 51](https://user-images.githubusercontent.com/116351258/227199112-b3279d63-50de-40aa-8ca8-4bda3e9d829b.png)
 
