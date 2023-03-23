@@ -62,7 +62,7 @@ Niski standard pracy w metodyce Scrum | Szkolenia dla zespołu ze sposobu wytwar
 ![Zrzut ekranu 2023-02-27 o 23 28 50](https://user-images.githubusercontent.com/116351258/227202168-e99f8984-e05b-4c11-bbc4-6f9c1c892494.png)
 
 ## Korzystanie z narzędzi deweloperskich w przeglądarce internetowej
-- Ilość niewykorzystanych bajtó∑ w załądowanych plikach
+- Ilość niewykorzystanych bajtów w załadowanych plikach
 ![Zrzut ekranu 2023-02-25 o 15 53 28](https://user-images.githubusercontent.com/116351258/227202728-15028679-c0af-4f2f-8424-9c1f5c7bcfe7.png)
 
 - Identyfikacja elementów na stronie wraz z zastoaowanym stylem
