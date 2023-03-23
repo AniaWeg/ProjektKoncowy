@@ -46,6 +46,9 @@ Niski standard pracy w metodyce Scrum | Szkolenia dla zespołu ze sposobu wytwar
 ![Zrzut ekranu 2023-02-27 o 23 12 15](https://user-images.githubusercontent.com/116351258/227199057-8059d1bb-c9ac-490a-9565-8dec55944d2e.png)
 ![Zrzut ekranu 2023-02-27 o 23 14 51](https://user-images.githubusercontent.com/116351258/227199112-b3279d63-50de-40aa-8ca8-4bda3e9d829b.png)
 
+## Przypadki testowe w metodyce Behavior Driven Development (BDD)
+![Zrzut ekranu 2023-02-27 o 23 38 55](https://user-images.githubusercontent.com/116351258/227204307-ec616538-9607-41a8-beda-efd9ccfb52dd.png)
+
 ## Karty sesji eksploracyjnej - przykłady
 ![Zrzut ekranu 2023-03-23 o 13 10 58](https://user-images.githubusercontent.com/116351258/227200043-b5a3896c-ce96-4cd4-82fc-4bce65db99ec.png)
 ![Zrzut ekranu 2023-03-23 o 13 11 12](https://user-images.githubusercontent.com/116351258/227200098-ecedea67-9637-4271-b4b6-58b70a101271.png)
@@ -64,6 +67,23 @@ Niski standard pracy w metodyce Scrum | Szkolenia dla zespołu ze sposobu wytwar
 
 - Identyfikacja elementów na stronie wraz z zastoaowanym stylem
 ![Zrzut ekranu 2023-02-27 o 23 46 54](https://user-images.githubusercontent.com/116351258/227202958-3f9824fb-3f36-4cb4-9c9a-815aa9b0e404.png)
+
+- Audyt
+
+![Zrzut ekranu 2023-03-23 o 13 28 15](https://user-images.githubusercontent.com/116351258/227204007-f1fec9b5-4237-4f0c-aa6f-d183b85ee9f3.png)
+
+## Wysyłanie requestów za pomocą narzędzia Postman
+- metoda GET
+![GET](https://user-images.githubusercontent.com/116351258/227205117-f0895dea-fcc6-4ed1-a72a-a4747825cefe.png)
+- metoda POST
+![POST](https://user-images.githubusercontent.com/116351258/227205209-0f9d8275-b303-443a-8dc2-dc239b42a814.png)
+- metoda PUT
+![PUT](https://user-images.githubusercontent.com/116351258/227205276-978b7ffe-e231-4bfa-99cc-43ed4923309c.png)
+- metoda DELETE
+![DELETE](https://user-images.githubusercontent.com/116351258/227205338-563efcdc-d992-4db2-aa98-66f5833ffe28.png)
+
+
+
 
 
 
