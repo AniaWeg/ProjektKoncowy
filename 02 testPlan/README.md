@@ -9,13 +9,14 @@ Confluence oferuje też szereg ułatwień, które przyspieszają pracę:
 * Wszystko co jest tworzone w narzędziu Confluence, jest tworzone online.
 * Na stronie można umieścić dosłownie wszystko: obrazy, filmy, pliki czy odnośniki do innych stron.
 * Integracja z JIRA - wszystkie zgłoszenia można dodawać poprzez specjalne widgety, które zrobią za nas, resztę pracy wyświetlając szczegóły.
-* Confluence posiada zaawansowane szablony od prostej pustej strony po zaawansowane szablony, dla każdego działu w firmie np.
+* Confluence posiada zaawansowane szablony od prostej pustej strony po zaawansowane szablony, dla każdego działu w firmie np.:
  
 👉 Notatki ze spotkania (Meeting Notes)
  
 👉 How—To
  
 👉 Planowanie
+
 👉 Retrospekcja
 
 * W Confluence istnieje specjalny zestaw skrótów klawiszowych oraz symboli, które odpowiadają za tworzenie poszczególnych elementów, co mocno przyspiesza pracę.
