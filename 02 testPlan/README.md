@@ -9,8 +9,8 @@
 ### 2.1. Cel testowania
 ### 2.2 Założenia testów
 ### 2.3 Poziomy i typy testów
-#### 2.3.1 Testy jednostkowe
-#### 2.3.2 Testy integracyjne i systemowe
+💥 2.3.1 Testy jednostkowe
+💥 2.3.2 Testy integracyjne i systemowe
 #### 2.3.3 Testy akceptacyjne
 #### 2.3.4 Testy eksploracyjne
 #### 2.3.5 Testy funkcjonalne
