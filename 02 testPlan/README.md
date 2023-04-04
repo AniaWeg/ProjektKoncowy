@@ -1,3 +1,8 @@
+# Użyte narzędzie - JIRA Confluence
+
+![image](https://user-images.githubusercontent.com/116351258/229884813-cacc68a7-1505-4e8f-adb1-9ccb688682e2.png)
+
+
 # Spis treści opracowanego przeze mnie Test Planu
 
 ## 1. WPROWADZANIE ✍️
