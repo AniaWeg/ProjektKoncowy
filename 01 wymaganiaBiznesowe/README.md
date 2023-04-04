@@ -16,8 +16,7 @@ Testy skupiają się nie tyle na konkretnej implementacji, a raczej na konkretny
 **korzyść** - określona korzyść powinna być rezultatem wykonania historyjki. Wiele _User Stories_ może dzieli te same korzyści.
 
 
-👇
-Kryterium akceptacji może przybrać np.: taką formę:
+👍 Kryterium akceptacji może przybrać np.: taką formę:
 
 *"Zakładając, że..., jeśli..., to (wtedy)..."*
 
