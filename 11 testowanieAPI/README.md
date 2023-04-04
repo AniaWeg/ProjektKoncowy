@@ -42,4 +42,4 @@ Istnieją dwie podstawowe metody przekazania parametrów:
 Parametry przekazywane metodą GET umieszczane są w adresie strony po znaku ? i rozdzielone znakiem &. Parametry są zwykle przekazywane w postaci par nazwa=wartość.
 
 Przykład:
-'https://www.google.pl/search?q=get+method+example&lr=lang_pl'
+`https://www.google.pl/search?q=get+method+example&lr=lang_pl`
