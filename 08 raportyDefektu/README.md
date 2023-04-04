@@ -26,7 +26,7 @@ Podstawowymi rodzajami zgłoszeń w JIRA są: epiki (duże zestawy historyjek u�
 ## Wyszukiwanie zgłoszeń w JIRA
 W Jira mamy dwa typy wyszukiwania. Pierwszy to basic, który pozwala filtrować zgłoszenia po kryteriach uzupełnianych w sposób graficzny (wybieranie wartości z pól).
 
-Drugim sposobem jest stworzony przez Atlassiana JQL – JIRA Query Language. Bardzo elastyczny i dostarczający wiele opcji sposób wyszukiwania. Nie trzeba znać JQL na pamięć, w sieci jest dostępnych wiele tutoriali oraz ściągawek np. [JQL Cheatsheet] (https://cheatography.com/justinbyrne/cheat-sheets/jql-jira-query-language/)
+Drugim sposobem jest stworzony przez Atlassiana JQL – JIRA Query Language. Bardzo elastyczny i dostarczający wiele opcji sposób wyszukiwania. Nie trzeba znać JQL na pamięć, w sieci jest dostępnych wiele tutoriali oraz ściągawek np. [JQL Cheatsheet](https://cheatography.com/justinbyrne/cheat-sheets/jql-jira-query-language/)
 
 ## Raporty w JIRA
 JIRA jako narzędzie do zarządzania projektem oferuje automatyczne generowanie raportów różnego typu na podstawie gotowych wzorców.
