@@ -17,8 +17,10 @@ Narzędzie składa się z kilku sekcji:
 **Test Cases** — sekcja, w której tworzy się przypadki testowe. Narzędzie Test Rail wspiera kilka formatów tworzenia przypadków testowych: format tekstowy, sesja eksploracyjna. Celem utrzymania porządku przypadki testowe można umieszczać w poszczególnych sekcjach. Narzędzie umożliwia wyszukiwanie oraz sortowanie przypadków testowych w zależności od zadanych kryteriów.
 
 Dobry przypadek testowy powinien posiadać wszystkie wymagane informacje. Zaczynając od dobrego **tytułu**, który pozwoli na skojarzenie przypadku testowego z planowanym działaniem testowym, lub testowanym komponentem. Pozostałymi ważnymi informacjami, które należy uzupełnić są: 
-* 👉 **Sekcja (Section)** - czyli folder, do którego chcielibyśmy przyporządkować przypadek testowy. 
-* 👉 **Wzorzec (Template)** - czyli sposób opisania kroków do wykonania. Test Rail oferuje trzy możliwości, najbardziej popularnym rozwiązaniem jest rozbicie działań na kroki do wykonania i oczekiwane rezultaty. 
+
+👉 **Sekcja (Section)** - czyli folder, do którego chcielibyśmy przyporządkować przypadek testowy. 
+
+👉 **Wzorzec (Template)** - czyli sposób opisania kroków do wykonania. Test Rail oferuje trzy możliwości, najbardziej popularnym rozwiązaniem jest rozbicie działań na kroki do wykonania i oczekiwane rezultaty. 
 * 👉 **Typ Testu (Type)** - wybór testu pozwala uporządkować repozytorium testowe, grupując przypadki testowe np. na przypadki testowe funkcjonalne/niefunkcjonalne. 
 * 👉 **Priorytet (Priority)** - czyli nieformalna kolejność wykonywania przypadków testowych. Im wyższy priorytet, tym szybciej powinien wykonany być test. W przypadku ograniczonej ilości czasu, na podstawie analizy ryzyka można pominąć przypadki testowe o niskim priorytecie lub wykonać je jako ostatnie. 
 * 👉 **Estymacja (Estimate)** - czas potrzebny na wykonanie danego przypadku testowego. * Referencje, odniesienia do dokumentów (References) - w tym miejscu możesz umieścić informacje o identyfikatorze dokumentu lub wymagania, na podstawie którego został utworzony przypadek testowy. 
