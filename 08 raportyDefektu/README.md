@@ -1,5 +1,8 @@
 # Raporty defektu w narzędziu JIRA
 
+![image](https://user-images.githubusercontent.com/116351258/229881315-7400e5c2-95ed-4ba5-95fd-0a5266636d92.png)
+
+
 JIRA — według definicji jest to zamknięte oprogramowanie do śledzenia błędów oraz zarządzania projektami. W praktyce jednak jest to platforma do organizowania pracy zespołów w dużych organizacjach, rozproszonych globalnie. Jest to narzędzie niezwykle intuicyjne i zawierające szerokie możliwości konfiguracji oraz integracji z bardzo dużą ilością narzędzi dostępnych na rynku. Składa się z trzech głównych komponentów:
 
 **Jira Core** – podstawowa platforma, system do zarządzania pracą zespołu.
