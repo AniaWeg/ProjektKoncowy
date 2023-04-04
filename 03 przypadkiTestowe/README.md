@@ -5,6 +5,7 @@
 TestRail to elastyczne narzędzie do zarządzania przypadkami testowymi z intuicyjnym interfejsem użytkownika. Umożliwia łatwe tworzenie, łączenie i ponowne wykorzystywanie przypadków testowych i grupowanie ich w zorganizowanej strukturze. Dodatkowo pozwala śledzić wyniki testów w czasie rzeczywistym i generuje szczegółowe raporty na temat testów, obciążenia zespołu, pokrycia kodu i innych.
 
 Narzędzie składa się z kilku sekcji:
+
 **Overview** — jest to sekcja, w której widzimy aktualny stan naszego projektu. Widzimy aktualne wyniki testów, kamienie milowe, aktywność użytkowników oraz rzeczy do wykonania.
 
 **TODO** — zadania do wykonania, które można przypisać poszczególnym użytkownikom.
