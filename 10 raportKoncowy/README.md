@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/116351258/229900164-4dd68c85-8c79-49a9-8f49-d8a448a9f8d0.png)
 
-Finalny raport z testów pozwala nam na przedstawienie wyników interesariuszom. Ponadto pozwala to przeanalizować wszystkie wykonane akcje i wyciągnąć z nich wnioski, czy coś można by jeszcze poprawić w przyszłości.
+Finalny raport z testów pozwala nam na przedstawienie wyników interesariuszom. Ponadto pozwala przeanalizować wszystkie wykonane akcje i wyciągnąć z nich wnioski, czy coś można by jeszcze poprawić w przyszłości.
 
 
 # Spis treści opracowanego przeze mnie Raportu Końcowego
