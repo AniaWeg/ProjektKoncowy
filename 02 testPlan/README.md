@@ -30,8 +30,8 @@
 ### 4.3 Proces wykonywania testów
 ### 4.4 Ryzyka i sposoby ich minimalizacji
 ### 4.5 Odpowiedzialność za testy
-💥 4.5.1 Zespół testerski
-💥 4.5.2 Zespół dewelopwerski
+* 4.5.1 Zespół testerski
+* 4.5.2 Zespół dewelopwerski
  
 ## 5. ŚRODOWISKO TESTOWE 🖥️
 
