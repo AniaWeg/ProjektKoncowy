@@ -1,5 +1,5 @@
 # **Testowanie eksploracyjne** 
-polega na projektowaniu, wykonywaniu i rejestrowaniu przebiegu testów tzw. nieformalnych — czyli testów nigdzie wcześniej niezaprojektowanych. Następnie dokonuje się oceny ich działania w sposób dynamiczny poprzez wykonanie testów. Wynik testu dostarcza testerom oraz interesariuszom projektu wiedzy o stanie testowanego fragmentu aplikacji.
+Polega na projektowaniu, wykonywaniu i rejestrowaniu przebiegu testów tzw. nieformalnych — czyli testów nigdzie wcześniej niezaprojektowanych. Następnie dokonuje się oceny ich działania w sposób dynamiczny poprzez wykonanie testów. Wynik testu dostarcza testerom oraz interesariuszom projektu wiedzy o stanie testowanego fragmentu aplikacji.
 
 Czynności wchodzące w zakres testowania eksploracyjnego
 
