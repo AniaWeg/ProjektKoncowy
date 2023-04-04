@@ -28,7 +28,7 @@
 ### 4.1 Narzędzia do zarządzania procesem testowym
 ### 4.2 Proces tworzenia testów
 ### 4.3 Proces wykonywania testów
-### 👉 4.4 Ryzyka i sposoby ich minimalizacji 👈
+### 4.4 Ryzyka i sposoby ich minimalizacji 👈
 ### 4.5 Odpowiedzialność za testy
 * 4.5.1 Zespół testerski
 * 4.5.2 Zespół dewelopwerski
