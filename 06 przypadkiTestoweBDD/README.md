@@ -6,7 +6,7 @@ Proces wytwarzania oprogramowania w tej technologii jest trójfazowym procesem i
 * implementacja określonego zachowania i wykonania testów w celu weryfikacji zrealizowanych wymagań.
 Idea opiera się na dokonywaniu niewielkich zmian iteracyjnie, poszerzając implementację o coraz to nowe informację. Automatyzacja ma na celu jak najefektywniejszą weryfikację sprecyzowanych wymagań.
 
-## Zalety BDD¶
+## Zalety BDD
 Metodologia BDD cechuje się poniższymi zaletami:
 
 * mniejsze marnotrawstwo czasu i wysiłku - praktyki BDD wymagają skupienia wysiłków na odkrywaniu i dostarczaniu cech funkcjonalnych, które zapewniają wartość dla biznesu oraz unikaniu tych, które wartości takiej nie dostarczają.
