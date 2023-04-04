@@ -2,8 +2,8 @@
 
 ## Spis treści
 * [Opis projektu](#opis-projektu)
-* [Technologie]
-* [Analiza ryzyk - przykłady]
+* [Technologie](#technologie)
+* [Analiza ryzyk - przykłady](#Analiza-ryzyk---przykłady)
 * [Przypadki testowe w narzędziu TestRail - przykłady]
 * [Przypadki testowe w metodyce Behavior Driven Development (BDD)]
 * [Karty sesji eksploracyjnej - przykłady]
