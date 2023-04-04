@@ -1,4 +1,17 @@
 # ProjektKoncowy - Zarządzanie koszykiem na stronie komputronik.pl
+
+## Spis treści
+* [Opis projektu]
+* [Technologie]
+* [Analiza ryzyk - przykłady]
+* [Przypadki testowe w narzędziu TestRail - przykłady]
+* [Przypadki testowe w metodyce Behavior Driven Development (BDD)]
+* [Karty sesji eksploracyjnej - przykłady]
+* [Raportowanie defektów w narzędziu JIRA - przykłady]
+* [Nagrywanie testów za pomocą narzędzia Selenium IDE]
+* [Korzystanie z narzędzi deweloperskich w przeglądarce internetowej]
+* [Wysyłanie requestów za pomocą narzędzia Postman]
+
 ## Opis projektu
 
 Przeprowadzenie procesu testowego obejmującego: 
