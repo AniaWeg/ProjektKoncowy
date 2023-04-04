@@ -46,7 +46,7 @@ Ryzyka projektowe | Plan złagodzenia
 --- | ---
 Niewystarczające kwalifikacje zespołu testerskiego | Wsparcie Test Managera oraz przeprowadzenie dodatkoych szkoleń
 Braki kadrowe | Wsparcie testerów z innych zespołów
-Niska jakość artefaktó∑ testowych | Wsparcie Test Managera na każdym etapie procesu testowego i zadbanie o wysoką jakość tworzonych artefaktów
+Niska jakość artefaktów testowych | Wsparcie Test Managera na każdym etapie procesu testowego i zadbanie o wysoką jakość tworzonych artefaktów
 Błędy lub braki w dokumentacji | od początku procesu testowego szczegółowa analiza wymagań oraz dokumentacji
 Niedziałąjące lub niedostępny środowisko testowe | Zadbanie o dostęp do środowiska testowego oraz wzajemne wsparcie zespołu
 Niedostępne narzędzia | Zadbanie o dostęp do narzędzi poprzez wykupienie odpowiednich licencji
