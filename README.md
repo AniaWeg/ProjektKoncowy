@@ -4,7 +4,7 @@
 * [Opis projektu](#opis-projektu)
 * [Technologie](#technologie)
 * [Analiza ryzyk - przykłady](#Analiza-ryzyk---przykłady)
-* [Przypadki testowe w narzędziu TestRail - przykłady]
+* [Przypadki testowe w narzędziu TestRail - przykłady](#Przypadki testowe w narzędziu TestRail - przykłady)
 * [Przypadki testowe w metodyce Behavior Driven Development (BDD)]
 * [Karty sesji eksploracyjnej - przykłady]
 * [Raportowanie defektów w narzędziu JIRA - przykłady]
