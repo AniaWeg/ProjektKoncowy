@@ -2,6 +2,20 @@
 
 ![image](https://user-images.githubusercontent.com/116351258/229884813-cacc68a7-1505-4e8f-adb1-9ccb688682e2.png)
 
+Confluence został stworzony przez firmę Atlassian i jest często dostarczany jako pełen pakiet narzędzi wraz z JIRA oraz Bitbucket'em. Confluence jest zaawansowaną Wikipedią projektową z pełną integracją innych narzędzi firmy Atlassian. Confluence umożliwia tworzenie spersonalizowanych stron projektowych od zera na podstawie metody WYSISWG — dzięki czemu tworzenie stron jest proste dla użytkownika, który nie jest osobą techniczną. Dla bardziej zaawansowanych użytkowników można skorzystać z edytora kodu do tworzenia stron.
+
+Confluence oferuje też szereg ułatwień, które przyspieszają pracę:
+
+* Wszystko co jest tworzone w narzędziu Confluence, jest tworzone online.
+* Na stronie można umieścić dosłownie wszystko: obrazy, filmy, pliki czy odnośniki do innych stron.
+* Integracja z JIRA - wszystkie zgłoszenia można dodawać poprzez specjalne widgety, które zrobią za nas, resztę pracy wyświetlając szczegóły.
+* Confluence posiada zaawansowane szablony od prostej pustej strony po zaawansowane szablony, dla każdego działu w firmie np.
+ * Notatki ze spotkania (Meeting Notes)
+ * How—To
+ * Planowanie
+ * Retrospekcja
+* W Confluence istnieje specjalny zestaw skrótów klawiszowych oraz symboli, które odpowiadają za tworzenie poszczególnych elementów, co mocno przyspiesza pracę.
+* Wszystko, co tworzysz, jest bezpieczne, dostęp może być publiczny lub ograniczony tylko i wyłącznie dla wybranych użytkowników.
 
 # Spis treści opracowanego przeze mnie Test Planu
 
