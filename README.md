@@ -10,7 +10,7 @@
 * [Raportowanie defektów w narzędziu JIRA - przykłady](#Raportowanie-defektów-w-narzędziu-JIRA---przykłady)
 * [Nagrywanie testów za pomocą narzędzia Selenium IDE](#Nagrywanie-testów-za-pomocą-narzędzia-Selenium-IDE)
 * [Korzystanie z narzędzi deweloperskich w przeglądarce internetowej](#Korzystanie-z-narzędzi-deweloperskich-w-przeglądarce-internetowej)
-* [Wysyłanie requestów za pomocą narzędzia Postman](#Wysyłanie-requestów-za pomocą-narzędzia-Postman)
+* [Wysyłanie requestów za pomocą narzędzia Postman](#Wysyłanie-requestów-za-pomocą-narzędzia-Postman)
 
 ## Opis projektu
 
