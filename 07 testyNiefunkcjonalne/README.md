@@ -1,7 +1,7 @@
 # Testy niefunkcjonalne
 Celem testowania niefunkcjonalnego jest dokonanie oceny charakterystyk systemów i oprogramowania, takich jak: użyteczność, wydajność, bezpieczeństwo itd. Klasyfikację charakterystyk jakościowych oprogramowania zawiera standard ISO/IEC 25010. Testowanie niefunkcjonalne pozwala sprawdzić to, „jak dobrze” zachowuje się dany system.
 
-Najważniejsze informacje o testach niefunkcjonalnych:
+### Najważniejsze informacje o testach niefunkcjonalnych:
 
 * można i należy je wykonywać na każdym poziomie testów.
 
