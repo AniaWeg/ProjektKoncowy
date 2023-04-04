@@ -1,6 +1,6 @@
 # Spis treści opracowanego przeze mnie Test Planu
 
-👉 ## 1. WPROWADZANIE 
+## 1. WPROWADZANIE ✍️
 ### 1.1 Cel
 ### 1.2 Opis projektu
 ### 1.3 Odbiorcy
