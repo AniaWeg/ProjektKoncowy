@@ -16,7 +16,7 @@ Narzędzie składa się z kilku sekcji:
 
 **Test Cases** — sekcja, w której tworzy się przypadki testowe. Narzędzie Test Rail wspiera kilka formatów tworzenia przypadków testowych: format tekstowy, sesja eksploracyjna. Celem utrzymania porządku przypadki testowe można umieszczać w poszczególnych sekcjach. Narzędzie umożliwia wyszukiwanie oraz sortowanie przypadków testowych w zależności od zadanych kryteriów.
 
-💥 *Dobry przypadek testowy* 💥: powinien posiadać wszystkie wymagane informacje. Zaczynając od dobrego 
+💥 *Dobry przypadek testowy* 💥 powinien posiadać wszystkie wymagane informacje. Zaczynając od dobrego 
 
 👉**tytułu**, który pozwoli na skojarzenie przypadku testowego z planowanym działaniem testowym, lub testowanym komponentem. 
 
