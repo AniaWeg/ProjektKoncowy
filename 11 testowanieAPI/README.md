@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/116351258/229900923-418f1965-35cc-4fa4-8881-f267c44f143c.png)
 
-Narzędzie Postman może być świetnym narzędziem to testowania warstwy back-endowej naszej aplikacji (czyli API). Narzędzie to ze względu na swoje możliwośći pozwala nie tylko na wysyłanie żądań (i co za tym idzie) i manualna weryfikacje ale także tworzenie testów automatycznych za pomocą wbudowanych snippetów kodu Java-Script.
+Narzędzie Postman może być świetnym narzędziem to testowania warstwy back-endowej naszej aplikacji (czyli API). Narzędzie to ze względu na swoje możliwośći pozwala nie tylko na wysyłanie żądań (i co za tym idzie) i manualną weryfikacje, ale także tworzenie testów automatycznych za pomocą wbudowanych snippetów kodu Java-Script.
 
 ## POSTMAN
 **Postman** jest bezpłatnym narzędziem, które możemy wykorzystać do testów API. Narzędzie nie wymaga instalacji i może być zainstalowane jako dodatek do przeglądarki Google Chrome, oczywiście to tylko jedna z możliwości, osoby zainteresowane mogą zainstalować narzędzie na swoim własnym komputerze (wsparcie dla Windows, Linux oraz Mac).
