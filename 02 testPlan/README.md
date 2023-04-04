@@ -11,11 +11,11 @@
 ### 2.3 Poziomy i typy testów
 💥 2.3.1 Testy jednostkowe
 💥 2.3.2 Testy integracyjne i systemowe
-#### 2.3.3 Testy akceptacyjne
-#### 2.3.4 Testy eksploracyjne
-#### 2.3.5 Testy funkcjonalne
-#### 2.3.6 Testy niefunkcjonalne
-#### 2.3.7 Automatyczne testy regresji
+💥 2.3.3 Testy akceptacyjne
+💥 2.3.4 Testy eksploracyjne
+💥 2.3.5 Testy funkcjonalne
+💥 2.3.6 Testy niefunkcjonalne
+💥 2.3.7 Automatyczne testy regresji
 ### 2.4 Produkty pracy
 ### 2.5 Oszacowanie nakładu pracy podczas procesu testowego
 
@@ -30,8 +30,8 @@
 ### 4.3 Proces wykonywania testów
 ### 4.4 Ryzyka i sposoby ich minimalizacji
 ### 4.5 Odpowiedzialność za testy
-#### 4.5.1 Zespół testerski
-#### 4.5.2 Zespół dewelopwerski
+💥 4.5.1 Zespół testerski
+💥 4.5.2 Zespół dewelopwerski
  
 ## 5. ŚRODOWISKO TESTOWE 🖥️
 
