@@ -5,7 +5,7 @@
 ### 1.2 Opis projektu
 ### 1.3 Odbiorcy
 
-## 2. STRATEGIA TESTÓW
+## 2. STRATEGIA TESTÓW :chart:
 ### 2.1. Cel testowania
 ### 2.2 Założenia testów
 ### 2.3 Poziomy i typy testów
