@@ -3,15 +3,15 @@
 ## Spis treści 📖
 
 * [Opis projektu](#opis-projektu-%EF%B8%8F)
-* [Technologie](#technologie)
-* [Analiza ryzyk - przykłady](#Analiza-ryzyk---przykłady)
-* [Przypadki testowe w narzędziu TestRail - przykłady](#Przypadki-testowe-w-narzędziu-TestRail---przykłady)
-* [Przypadki testowe w metodyce Behavior Driven Development (BDD)](#Przypadki-testowe-w-metodyce-Behavior-Driven-Development-(BDD))
-* [Karty sesji eksploracyjnej - przykłady](#Karty-sesji-eksploracyjnej---przykłady)
-* [Raportowanie defektów w narzędziu JIRA - przykłady](#Raportowanie-defektów-w-narzędziu-JIRA---przykłady)
-* [Nagrywanie testów za pomocą narzędzia Selenium IDE](#Nagrywanie-testów-za-pomocą-narzędzia-Selenium-IDE)
-* [Korzystanie z narzędzi deweloperskich w przeglądarce internetowej](#Korzystanie-z-narzędzi-deweloperskich-w-przeglądarce-internetowej)
-* [Wysyłanie requestów za pomocą narzędzia Postman](#Wysyłanie-requestów-za-pomocą-narzędzia-Postman)
+* [Technologie](#technologie-%EF%B8%8F)
+* [Analiza ryzyk - przykłady](#Analiza-ryzyk---przykłady-%EF%B8%8F)
+* [Przypadki testowe w narzędziu TestRail - przykłady](#Przypadki-testowe-w-narzędziu-TestRail---przykłady-%EF%B8%8F)
+* [Przypadki testowe w metodyce Behavior Driven Development (BDD)](#Przypadki-testowe-w-metodyce-Behavior-Driven-Development-(BDD)-%EF%B8%8F)
+* [Karty sesji eksploracyjnej - przykłady](#Karty-sesji-eksploracyjnej---przykłady-%EF%B8%8F)
+* [Raportowanie defektów w narzędziu JIRA - przykłady](#Raportowanie-defektów-w-narzędziu-JIRA---przykłady-%EF%B8%8F)
+* [Nagrywanie testów za pomocą narzędzia Selenium IDE](#Nagrywanie-testów-za-pomocą-narzędzia-Selenium-IDE-%EF%B8%8F)
+* [Korzystanie z narzędzi deweloperskich w przeglądarce internetowej](#Korzystanie-z-narzędzi-deweloperskich-w-przeglądarce-internetowej-%EF%B8%8F)
+* [Wysyłanie requestów za pomocą narzędzia Postman](#Wysyłanie-requestów-za-pomocą-narzędzia-Postman-%EF%B8%8F)
 
 ## Opis projektu ✍️
 
