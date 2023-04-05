@@ -13,7 +13,7 @@
 * [Korzystanie z narzędzi deweloperskich w przeglądarce internetowej](#korzystanie-z-narzędzi-deweloperskich-w-przeglądarce-internetowej-%EF%B8%8F)
 * [Wysyłanie requestów za pomocą narzędzia Postman](#wysyłanie-requestów-za-pomocą-narzędzia-postman-)
 
-## Opis projektu ✍️https://github.com/AniaWeg/ProjektKoncowy/blob/main/README.md#przypadki-testowe-w-metodyce-behavior-driven-development-bdd-
+## Opis projektu ✍️
 Przeprowadzenie procesu testowego obejmującego: 
 - analizę wymagań oraz ryzyk
 - opracowanie test planu
