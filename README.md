@@ -5,7 +5,7 @@
 * [Opis projektu](#opis-projektu-%EF%B8%8F)
 * [Technologie](#technologie-%EF%B8%8F)
 * [Analiza ryzyk - przykłady](#Analiza-ryzyk---przykłady-%EF%B8%8F)
-* [Przypadki testowe w narzędziu TestRail - przykłady](#Przypadki-testowe-w-narzędziu-TestRail---przykłady-%EF%B8%8F)
+* [Przypadki testowe w narzędziu TestRail - przykłady](#przypadki-testowe-w-narz%C4%99dziu-testrail---przyk%C5%82ady-)
 * [Przypadki testowe w metodyce Behavior Driven Development (BDD)](#Przypadki-testowe-w-metodyce-Behavior-Driven-Development-(BDD)-%EF%B8%8F)
 * [Karty sesji eksploracyjnej - przykłady](#Karty-sesji-eksploracyjnej---przykłady-%EF%B8%8F)
 * [Raportowanie defektów w narzędziu JIRA - przykłady](#Raportowanie-defektów-w-narzędziu-JIRA---przykłady-%EF%B8%8F)
@@ -14,7 +14,6 @@
 * [Wysyłanie requestów za pomocą narzędzia Postman](#Wysyłanie-requestów-za-pomocą-narzędzia-Postman-%EF%B8%8F)
 
 ## Opis projektu ✍️
-
 Przeprowadzenie procesu testowego obejmującego: 
 - analizę wymagań oraz ryzyk
 - opracowanie test planu
