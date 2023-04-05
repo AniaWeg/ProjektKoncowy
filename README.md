@@ -1,7 +1,7 @@
 # ProjektKoncowy - Zarządzanie koszykiem na stronie komputronik.pl
 
 ## Spis treści 📖
-* [Opis projektu](##opis-projektu)
+* [Opis projektu](#opis-projektu)
 * [Technologie](#technologie)
 * [Analiza ryzyk - przykłady](#Analiza-ryzyk---przykłady)
 * [Przypadki testowe w narzędziu TestRail - przykłady](#Przypadki-testowe-w-narzędziu-TestRail---przykłady)
