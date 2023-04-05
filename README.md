@@ -6,14 +6,14 @@
 * [Technologie](#technologie-%EF%B8%8F)
 * [Analiza ryzyk - przykłady](#Analiza-ryzyk---przykłady-%EF%B8%8F)
 * [Przypadki testowe w narzędziu TestRail - przykłady](#przypadki-testowe-w-narz%C4%99dziu-testrail---przyk%C5%82ady-)
-* [Przypadki testowe w metodyce Behavior Driven Development (BDD)](#Przypadki-testowe-w-metodyce-Behavior-Driven-Development-(BDD)-%EF%B8%8F)
-* [Karty sesji eksploracyjnej - przykłady](#Karty-sesji-eksploracyjnej---przykłady-%EF%B8%8F)
-* [Raportowanie defektów w narzędziu JIRA - przykłady](#Raportowanie-defektów-w-narzędziu-JIRA---przykłady-%EF%B8%8F)
-* [Nagrywanie testów za pomocą narzędzia Selenium IDE](#Nagrywanie-testów-za-pomocą-narzędzia-Selenium-IDE-%EF%B8%8F)
-* [Korzystanie z narzędzi deweloperskich w przeglądarce internetowej](#Korzystanie-z-narzędzi-deweloperskich-w-przeglądarce-internetowej-%EF%B8%8F)
-* [Wysyłanie requestów za pomocą narzędzia Postman](#Wysyłanie-requestów-za-pomocą-narzędzia-Postman-%EF%B8%8F)
+* [Przypadki testowe w metodyce Behavior Driven Development (BDD)](#przypadki-testowe-w-metodyce-behavior-driven-development-bdd-)
+* [Karty sesji eksploracyjnej - przykłady](#karty-sesji-eksploracyjnej---przykłady-)
+* [Raportowanie defektów w narzędziu JIRA - przykłady](#raportowanie-defektów-w-narzędziu-jira---przykłady-%EF%B8%8F)
+* [Nagrywanie testów za pomocą narzędzia Selenium IDE](#nagrywanie-testów-za-pomocą-narzędzia-selenium-ide-)
+* [Korzystanie z narzędzi deweloperskich w przeglądarce internetowej](#korzystanie-z-narzędzi-deweloperskich-w-przeglądarce-internetowej-%EF%B8%8F)
+* [Wysyłanie requestów za pomocą narzędzia Postman](#wysyłanie-requestów-za-pomocą-narzędzia-postman-)
 
-## Opis projektu ✍️
+## Opis projektu ✍️https://github.com/AniaWeg/ProjektKoncowy/blob/main/README.md#przypadki-testowe-w-metodyce-behavior-driven-development-bdd-
 Przeprowadzenie procesu testowego obejmującego: 
 - analizę wymagań oraz ryzyk
 - opracowanie test planu
